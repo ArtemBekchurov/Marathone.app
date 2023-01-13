@@ -1,0 +1,16 @@
+D:\Marathone.app\Marathone.app\bin\Debug\Marathone.app.exe.config
+D:\Marathone.app\Marathone.app\bin\Debug\Marathone.app.exe
+D:\Marathone.app\Marathone.app\bin\Debug\Marathone.app.pdb
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app.csproj.AssemblyReference.cache
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app.csproj.SuggestedBindingRedirects.cache
+D:\Marathone.app\Marathone.app\obj\Debug\MainWindow.g.cs
+D:\Marathone.app\Marathone.app\obj\Debug\App.g.cs
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app_MarkupCompile.cache
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app_MarkupCompile.lref
+D:\Marathone.app\Marathone.app\obj\Debug\MainWindow.baml
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app.g.resources
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app.Properties.Resources.resources
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app.csproj.GenerateResource.cache
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app.csproj.CoreCompileInputs.cache
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app.exe
+D:\Marathone.app\Marathone.app\obj\Debug\Marathone.app.pdb
