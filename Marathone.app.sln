@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marathone.app", "Marathone.app\Marathone.app.csproj", "{7F18053B-E187-43B7-AFFB-A70732047F24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{37401BD3-F1A9-4B0E-BD78-791E0CC74A22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7F18053B-E187-43B7-AFFB-A70732047F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F18053B-E187-43B7-AFFB-A70732047F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F18053B-E187-43B7-AFFB-A70732047F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37401BD3-F1A9-4B0E-BD78-791E0CC74A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37401BD3-F1A9-4B0E-BD78-791E0CC74A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37401BD3-F1A9-4B0E-BD78-791E0CC74A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37401BD3-F1A9-4B0E-BD78-791E0CC74A22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
