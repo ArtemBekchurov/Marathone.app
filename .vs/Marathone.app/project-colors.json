@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f18053b-e187-43b7-affb-a70732047f24": {
+      "ProjectGuid": "7f18053b-e187-43b7-affb-a70732047f24",
+      "DisplayName": "Marathone.app",
+      "ColorIndex": 0
+    },
+    "37401bd3-f1a9-4b0e-bd78-791e0cc74a22": {
+      "ProjectGuid": "37401bd3-f1a9-4b0e-bd78-791e0cc74a22",
+      "DisplayName": "Task_2",
+      "ColorIndex": 1
+    },
+    "fe5d3193-1dc8-4089-a176-e522cacd5d8c": {
+      "ProjectGuid": "fe5d3193-1dc8-4089-a176-e522cacd5d8c",
+      "DisplayName": "Task_3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
